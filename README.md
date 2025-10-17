@@ -1,4 +1,3 @@
-# ibkr-auto-order-bot
 
 # 💹 IBKR Python Trading Bot
 
@@ -88,6 +87,6 @@ Students can extend this project by adding:
 
 ## 🧾 Author
 
-**Ihsan Ali**
+**IHSAN ALI**
 Founder & Instructor — *Al-Mehdi Foundation*
 📍 Sukkur, Pakistan
